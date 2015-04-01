@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Вы победили"/>
+
+    <Preference
+        android:title="Заскриньте этот и главный экран"
+        android:summary="И отправьте нам"/>
+
+    <PreferenceCategory
+        android:title="Благодарности"/>
+    <Preference
+        android:title="Coding Designers"
+        android:summary="Разрабам Candy">
+    </Preference>
+    <Preference
+        android:title="Дмитрию Скоробогатому"
+        android:summary="вызов этого экрана">
+    </Preference>
+    <Preference
+        android:title="А так же всем,кто"
+        android:summary="Прошел через 1кк кликов">
+    </Preference>
+
+</PreferenceScreen>

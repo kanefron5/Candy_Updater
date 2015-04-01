@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory
+    android:title="Основное"/>
+
+    <Preference
+        android:title="Написано Романом Заболотских"
+        android:summary="Спасибо Coding Designers"/>
+
+
+    <Preference
+        android:title="Номер сборки"
+        android:summary="2.0(alpha)">
+    </Preference>
+    <Preference
+        android:title="Дата сборки"
+        android:summary="31.03.2015 16-30">
+    </Preference>
+
+</PreferenceScreen>
